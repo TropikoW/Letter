@@ -106,6 +106,8 @@
   background-color: burlywood;
   height: 40%;padding: 30px;
   border-radius: 20px;
+  word-wrap: break-word;
+  overflow-y: auto;
 }
 .container__letter>figure{
   display: flex;
